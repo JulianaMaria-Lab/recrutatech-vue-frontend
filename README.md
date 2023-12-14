@@ -1,4 +1,10 @@
-# front-end
+# Recrutatech Vue Frontend
+
+This is the frontend component of the Recrutatech project, built using the Vue.js framework.
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) installed on your machine.
 
 ## Project setup
 ```
@@ -22,3 +28,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
